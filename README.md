@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi 👋 My name is Jahanzeb Awan
+==============================
 
-<!--
-**JahanzebAwan/JahanzebAwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer
+-------------
 
-Here are some ideas to get you started:
+React Developer with more than 5 years of hands-on practical experience. Interested in the continuation of learning and cooperation with an excellent team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Pakistan
+*   ✉️  You can contact me at [iamjahanzebawan@gmail.com](mailto:iamjahanzebawan@gmail.com)
+*   🚀  I'm currently working on [LetsBuild project](http://www.letsbuild.com/)
+*   🧠  I'm learning t3 stack
+*   🤝  I'm open to collaborating on interesting projects
