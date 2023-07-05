@@ -4,7 +4,7 @@ Hi 👋 My name is Jahanzeb Awan
 Web Developer
 -------------
 
-Full stack Developer with more than 5 years of hands-on practical experience. Interested in the continuation of learning and cooperation with an excellent team.
+Frontend Developer with more than 5 years of hands-on practical experience. Interested in the continuation of learning and cooperation with an excellent team.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [iamjahanzebawan@gmail.com](mailto:iamjahanzebawan@gmail.com)
